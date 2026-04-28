@@ -1,0 +1,77 @@
+# =========================
+# Dependencies
+# =========================
+
+node_modules/
+
+# =========================
+# Build output
+# =========================
+
+dist/
+build/
+coverage/
+
+# =========================
+# Generated icon components
+# (keep raw SVGs, ignore generated TSX)
+# =========================
+
+src/icons/
+
+# Keep index file if generated
+# (optional — remove this if index.ts is also generated)
+# !src/index.ts
+
+# =========================
+# TypeScript
+# =========================
+
+*.tsbuildinfo
+
+# =========================
+# Logs
+# =========================
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Environment files
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor / IDE
+# =========================
+
+.vscode/
+.idea/
+
+# Allow shared workspace config (optional)
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# =========================
+# Testing
+# =========================
+
+coverage/
+
+# =========================
+# Misc
+# =========================
+
+*.log

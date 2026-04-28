@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M2 4C2 3.44772 2.44772 3 3 3H21C21.5523 3 22 3.44772 22 4V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4ZM17.5 19H20V11H17.5V19ZM15.5 11V19H13V11H15.5ZM17.5 9H20V5H17.5V9ZM15.5 5V9H13V5H15.5ZM4 5H6.5V9H4V5ZM8.5 5V9H11V5H8.5ZM4 11H6.5V19H4V11ZM8.5 11V19H11V11H8.5Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5 17C14.5 16.4477 14.9477 16 15.5 16H17.5C18.0523 16 18.5 16.4477 18.5 17C18.5 17.5523 18.0523 18 17.5 18H15.5C14.9477 18 14.5 17.5523 14.5 17Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5 7C14.5 6.44772 14.9477 6 15.5 6H17.5C18.0523 6 18.5 6.44772 18.5 7C18.5 7.55228 18.0523 8 17.5 8H15.5C14.9477 8 14.5 7.55228 14.5 7Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 16.5C10 15.9477 10.4477 15.5 11 15.5H13C13.5523 15.5 14 15.9477 14 16.5C14 17.0523 13.5523 17.5 13 17.5H11C10.4477 17.5 10 17.0523 10 16.5Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 13.5C10 12.9477 10.4477 12.5 11 12.5H13C13.5523 12.5 14 12.9477 14 13.5C14 14.0523 13.5523 14.5 13 14.5H11C10.4477 14.5 10 14.0523 10 13.5Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7C10 6.44772 10.4477 6 11 6H13C13.5523 6 14 6.44772 14 7C14 7.55228 13.5523 8 13 8H11C10.4477 8 10 7.55228 10 7Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 16.5C5.5 15.9477 5.94772 15.5 6.5 15.5H8.5C9.05228 15.5 9.5 15.9477 9.5 16.5C9.5 17.0523 9.05228 17.5 8.5 17.5H6.5C5.94772 17.5 5.5 17.0523 5.5 16.5Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 13.5C5.5 12.9477 5.94772 12.5 6.5 12.5H8.5C9.05228 12.5 9.5 12.9477 9.5 13.5C9.5 14.0523 9.05228 14.5 8.5 14.5H6.5C5.94772 14.5 5.5 14.0523 5.5 13.5Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 7C5.5 6.44772 5.94772 6 6.5 6H8.5C9.05228 6 9.5 6.44772 9.5 7C9.5 7.55228 9.05228 8 8.5 8H6.5C5.94772 8 5.5 7.55228 5.5 7Z" fill="black"/>
+</svg>
