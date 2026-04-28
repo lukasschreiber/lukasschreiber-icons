@@ -18,6 +18,7 @@ coverage/
 # =========================
 
 src/icons/
+src/index.ts
 
 # Keep index file if generated
 # (optional — remove this if index.ts is also generated)
